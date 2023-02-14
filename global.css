@@ -1,0 +1,21 @@
+:root {
+    --backcolor: #4a4a4a;
+    --actcolor:rgb(255, 229, 0);
+    --contentfs: 16px;
+    --titlefs: 20px;
+}
+
+@media screen (min-width:768px) {
+    :root {
+        --contentfs: 16px;
+        --titlefs: 20px;
+    }
+}
+
+@media screen (min-width:1200px) {
+
+    :root {
+        --contentfs: 16px;
+        --titlefs: 20px;
+    }
+}
